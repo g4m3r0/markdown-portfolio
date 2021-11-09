@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hi this is **BOLD** and this is _italic_. 😲
+
+# Programming languages
+- C#
+- .Net Core
+- Python
+- others...
+
+# Collaboration Tools
+- GitHub
+- Git
+- GitLab
